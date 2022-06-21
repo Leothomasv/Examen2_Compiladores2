@@ -1,0 +1,6 @@
+a = 2.4
+b = 6.3
+printf("a+b=", a-b)
+printf("a>b=", a>b)
+printf("a<b=", a<b)
+printf("a==b=", a==b)
